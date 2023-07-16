@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capturar el click de un botón</string>
+    <string name="valor1">Ingrese el primer valor</string>
+    <string name="ingrese_el_segundo_valor">Ingrese el segundo valor</string>
+    <string name="calcular">Calcular</string>
+    <string name="please_enter_both_numbers">Por favor ingresa ambos números.</string>
+    <string name="result">The result is: %d</string>
+
+</resources>
